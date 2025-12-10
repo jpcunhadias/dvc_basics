@@ -35,7 +35,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 ### Prerequisites
 
 - Git
-- Python 3.8+
+- Python 3.9+
 - DVC (can be installed via pip)
 
 ### Installation
